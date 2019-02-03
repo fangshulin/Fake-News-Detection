@@ -9,5 +9,5 @@ We trained a LSTM network with embedding matrix to detect the fake news during t
   <img src="https://github.com/fangshulin/Fake-News-Detection/blob/master/img/architecture.png" width="400"/></p>
 
 ### Reference
-Sequence Model by Andrew Ng, Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. 
+Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. 
 
